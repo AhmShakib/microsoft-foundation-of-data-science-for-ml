@@ -1,4 +1,4 @@
-Here’s a suggested README text for your repository:
+
 
 ---
 
@@ -55,5 +55,3 @@ I will update each module section below with notes, units, and certificates as I
 Certificates for each module will be uploaded in the respective module folders upon completion.
 
 ---
-
-Feel free to modify or expand as you add content!
