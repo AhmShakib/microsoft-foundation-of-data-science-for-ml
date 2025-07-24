@@ -35,7 +35,7 @@ I will update each module section below with notes, units, and certificates as I
 
 ## 📝 Progress Tracking
 
-- [ ] Module 1
+- [ ✅] Module 1
 - [ ] Module 2
 - [ ] Module 3
 - [ ] Module 4
